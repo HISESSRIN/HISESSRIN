@@ -1,5 +1,7 @@
 package si;
 
+import java.util.Scanner;
+
 public class Main {
 	public static void main(String[] args) {
 	    Scanner in=new Scanner(System.in);
@@ -182,10 +184,12 @@ public class Main {
                 System.out.println("A?");
                 A1=in.nextInt();
                    i1=A1;
-            while (i1+N2 < M1){
-                i1+=A1;
+            while (N2 < M1){
+               
                 System.out.println(i1);
-                
+                N2+=i1;
+                i1+=A1;
+               
             }
             break;
             
