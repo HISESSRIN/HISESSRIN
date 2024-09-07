@@ -4,7 +4,7 @@
 ![1687593658_new_Fuuqt6pacAAuGuT](https://github.com/user-attachments/assets/927a5251-5833-4c3f-9ca0-9e22180e461b)
 - 🔭 I’m currently working on **GD layouts**
 
-- ⚡ Fun fact **visual>>>>>>>>>>>>>eclipse**
+- ⚡ Fun fact **Sayori>>>>>>>>>>>>>Monika**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
