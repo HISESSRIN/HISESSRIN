@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm HISESSRIN</h1>
 <h3 align="center">El programador de geometry dash que ascendio</h3>
-![rei-rei-ayanami](https://github.com/user-attachments/assets/4002e337-fe9a-4e6b-9d05-fa4cc3e9b2b1)
+
 
 
 ![1687593658_new_Fuuqt6pacAAuGuT](https://github.com/user-attachments/assets/927a5251-5833-4c3f-9ca0-9e22180e461b)
