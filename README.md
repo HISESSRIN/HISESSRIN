@@ -1,12 +1,10 @@
 <h1 align="center">Hi , I'm HISESSRIN</h1>
-<h3 align="center">El programador de geometry dash que ascendio</h3>
+<h3 align="center"></h3>
 
 
 
 ![1687593658_new_Fuuqt6pacAAuGuT](https://github.com/user-attachments/assets/927a5251-5833-4c3f-9ca0-9e22180e461b)
-- 🔭 I’m currently working on **GD layouts**
-
-- ⚡ Fun fact **Sayori>>>>>>>>>>>>>Monika**
+- 🔭 I’m currently working on **learning c#,blender,FLstudio..etc**
 
 
 <p align="left">
